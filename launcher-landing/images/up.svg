@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g stroke="#504F7C">
+            <circle id="Oval-13" cx="24" cy="24" r="23.5"></circle>
+            <path d="M29.5971319,22.676385 L20.1667123,14.0719443 C19.9446722,13.8693519 19.5885702,13.8693519 19.3665301,14.0719443 C19.14449,14.2745366 19.14449,14.5994488 19.3665301,14.8020412 L28.3947639,23.0395222 L19.3665301,31.2770032 C19.14449,31.4795955 19.14449,31.8045078 19.3665301,32.0071001 C19.4754554,32.106485 19.6220856,32.16 19.7645265,32.16 C19.9069673,32.16 20.0535975,32.1103075 20.1625228,32.0071001 L29.5929425,23.4026594 C29.8149826,23.2038896 29.8149826,22.8751548 29.5971319,22.676385 Z" id="icon-scroll-up" fill="#504F7C" transform="translate(24.480000, 23.040000) scale(1, -1) rotate(90.000000) translate(-24.480000, -23.040000) "></path>
+        </g>
+    </g>
+</svg>
